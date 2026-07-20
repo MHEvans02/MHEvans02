@@ -22,4 +22,5 @@ Contacto
 LinkedIn · michael-hans-evans
 Portfolio · Notion
 Email · michael.hans.evans@gmail.com
+
 <sub>Disponible para proyectos freelance y posiciones remotas.</sub>
