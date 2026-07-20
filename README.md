@@ -22,6 +22,6 @@ Contacto
 LinkedIn · michael-hans-evans
 Portfolio · Notion
 Email · michael.hans.evans@gmail.com
-- **Tableau Public** · [Análisis de Churn — Telco](https://public.tableau.com/app/profile/michael.hans.evans/viz/dashboard_TelcoCustomer/Historia-AnlisisdeCancelaciones)
+- **Tableau Public** ·(https://public.tableau.com/app/profile/michael.hans.evans)
 
 <sub>Disponible para proyectos freelance y posiciones remotas.</sub>
