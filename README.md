@@ -16,7 +16,7 @@ Otros · Git · Excel
 Proyectos
 Proyecto	Qué construí	Stack
 Análisis de Churn — Telco	Pipeline centrado en SQL sobre un star schema de 8 tablas. Identifiqué una tasa de cancelación del 26,54% y cuantifiqué $139.130,85 de ingreso mensual en riesgo sobre una base de $456.116,60.	SQL · Python · Tableau
-Dashboard de Ventas y Logística	Esquema snowflake de 14 tablas y dashboard de 6 páginas sobre 9.993 registros. KPIs validados de forma cruzada entre Python, SQL y Power BI: $2.296.919,49 en ventas, 12,47% de margen.	Power BI · SQL · Python
+Dashboard de Ventas y Logística	Esquema snowflake de 13 tablas y dashboard de 6 páginas sobre 9.993 registros. KPIs validados de forma cruzada entre Python, SQL y Power BI: $2.296.919,49 en ventas, 12,47% de margen.	Power BI · SQL · Python
 Análisis E-Commerce UK	Pipeline reproducible en 6 notebooks y star schema híbrido de 14 tablas (27 relaciones, 0 huérfanos). £9.770.920 de ingreso neto, 23.960 facturas, 14,53% de cancelación.	Python · Plotly Dash · SQL
 Contacto
 LinkedIn · michael-hans-evans
